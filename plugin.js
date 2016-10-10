@@ -14,7 +14,7 @@
         // Setup lang, css, js
         var lang = editor.lang.cmsgrid;
 		editor.addContentsCss(this.path + 'styles/cmsgrid.css');
-		editor.addContentsCss('/admin/assets/pkg/bootstrap/css/bootstrap.min.css');
+		editor.addContentsCss('/path/to/bootstrap/css/bootstrap.min.css');
 		 
         // Dialog window
         editor.addCommand('cmsgridDialog', new CKEDITOR.dialogCommand('cmsgridDialog'));
