@@ -3,7 +3,7 @@ CMSGrid is a CKEditor plugin that helps users create and arrange Bootstrap 3 gri
 
 * Insert a variety of Bootstrap 3 layouts
 * Add or remove rows
-* Increase or decrease width of column sizes
+* Increase or decrease width of columns
 * Insert images which resize responsively with column resizing
 * Swap content of columns
 * Delete rows
@@ -14,7 +14,7 @@ CMSGrid is a CKEditor plugin that helps users create and arrange Bootstrap 3 gri
 * Download the plugin
 * Extract the contents to your CKEditor plugins directory: `/path/to/ckeditor/plugins/cmsgrid`
 * Open this file `/path/to/ckeditor/config.js`, and add the code below to it.
-* You'll have to edit the lines of code below which refer to Bootstrap 3 & jQuery and set the paths accordingly
+* You'll have to edit the lines of code below which refer to Bootstrap 3 & jQuery and set the paths & versions accordingly
 * Also note that the editorConfig below has been stripped down to just show the cmsgrid toolbar, you'll want to add in the standard wysiwyg features
 
 ```
