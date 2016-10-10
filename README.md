@@ -11,7 +11,7 @@ CMSGrid is a CKEditor 4 plugin that helps users create and arrange Bootstrap 3 g
 
 ## Demo
 
-<p>Take a look at the <a href="http://cmsgrid.filestorage.club/">CMSGrid demo</a> page.</p>
+<p>Take a look at the <a href="http://cmsgrid.filestorage.club/" target="_blank">CMSGrid demo</a> page.</p>
 
 ## Installation
 
